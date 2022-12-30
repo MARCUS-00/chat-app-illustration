@@ -144,7 +144,7 @@ body{
  .message1  > p { 
     height: 1.6rem;
     width: 8rem;
-    font-size: 0.58rem;
+    font-size: 0.57rem;
     text-align: left;
     margin: 4% 0 0 6%;
     font-weight: 500;
@@ -153,7 +153,7 @@ body{
 .message2 > p{
     height: 1.8rem;
     width: 8rem;
-    font-size: 0.58rem;
+    font-size: 0.56rem;
     margin: 4% 0 0 6%;
     text-align: left;
     font-weight: 500;
@@ -223,7 +223,7 @@ body{
 .message6 > p {
     height: 2.3rem;
     width: 8.1rem;
-    font-size: 0.59rem;
+    font-size: 0.57rem;
     margin: 3% 0 0 6%;
     text-align: left;
     font-weight: 500;
